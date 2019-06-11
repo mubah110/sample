@@ -3,4 +3,6 @@ Blue
 green
 yellow
 Black
+Dark and
+white colors
 These are the colors of the color.txt file 
