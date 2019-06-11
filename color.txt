@@ -1,0 +1,5 @@
+Red
+Blue
+green
+yellow
+These are the colors of the color.txt file 
